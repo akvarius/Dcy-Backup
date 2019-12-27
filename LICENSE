@@ -1,6 +1,7 @@
 This script relies on Duplicacy CLI.
 Duplicacy CLI is covered by this license (refer to https://github.com/gilbertchen/duplicacy/blob/master/LICENSE.md)
-  Copyright © 2017 Acrosync LLC
+
+Copyright © 2017 Acrosync LLC
 
   * Free for personal use or commercial trial
   * Non-trial commercial use requires per-computer CLI licenses available from duplicacy.com at a cost of $50 per year
@@ -8,12 +9,14 @@ Duplicacy CLI is covered by this license (refer to https://github.com/gilbertche
   * CLI licenses are not required to restore or manage backups; only the backup command requires valid CLI licenses
   * Modification and redistribution are permitted, but commercial use of derivative works is subject to the same requirements of this license
 
-_______________________________________________
+
 For the script Dcy-Backup, this license applies:
-Copyright © 2019 akvarius
 
-Use of the script Dcy-Backup does not allow you to use Duplicacy CLI other than intended by its license.
+Copyright © 2019 Arnt Marius Bakke
 
+Use of the script Dcy-Backup does not allow you to use Duplicacy CLI other than allowed by its license.
+
+(Other than limited by the above,)
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of "Dcy-Backup" and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
